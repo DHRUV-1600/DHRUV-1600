@@ -199,14 +199,11 @@ Interested in vision-based intelligence, automation, robotics and smart systems.
 </a>
 
 <br/><br/>
+### My Philosophy
 
-### 💡 Motto
+**Think logically. Code intelligently. Build consistently.**
 
-**AI. GenAI. Robotics. Build the future.**
-
-<br/>
-
-⭐ **Thanks for visiting my profile!**
+*Always learning. Always building.*
 
 <br/>
 
